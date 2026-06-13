@@ -84,7 +84,7 @@ docker ps
 docker logs flask-app
 ```
 
-## Screenshots
+## screenshots
 
 ### Flask Application Running
 
