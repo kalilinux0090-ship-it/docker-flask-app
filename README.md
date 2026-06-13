@@ -88,13 +88,32 @@ docker logs flask-app
 
 ### Flask Application Running
 
+<<<<<<< HEAD
+=======
+![Flask Application](screenshots/Flask%20Application.PNG)
+>>>>>>> 8f69503 (Update screenshots section)
 
-### Docker Images
+### Docker Service Running
 
+<<<<<<< HEAD
+=======
+![Docker Running](screenshots/docker-running.PNG)
+>>>>>>> 8f69503 (Update screenshots section)
 
-### Running Docker Container
+### Docker Hello World
 
+<<<<<<< HEAD
+=======
+![Docker Hello World](screenshots/docker-hello-world.PNG)
 
+### Docker Container Running
+
+![Docker Container](screenshots/docker-container.PNG)
+
+### Docker Logs
+
+![Docker Logs](screenshots/docker-logs.PNG)
+>>>>>>> 8f69503 (Update screenshots section)
 
 
 ## Skills Demonstrated
@@ -121,6 +140,6 @@ Through this project, I learned:
 
 ## Author
 
-Ashok 
+Mr.Ashok Maurya
 
 Cloud & DevOps Engineer (Learning Journey)
