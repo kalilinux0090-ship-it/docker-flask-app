@@ -88,19 +88,14 @@ docker logs flask-app
 
 ### Flask Application Running
 
-![Flask Application](screenshots/flask-browser.png)
 
 ### Docker Images
 
-![Docker Images](screenshots/docker-images.png)
 
 ### Running Docker Container
 
-![Docker Container](screenshots/docker-ps.png)
 
-### GitHub Repository
 
-![GitHub Repository](screenshots/github-repo.png)
 
 ## Skills Demonstrated
 
